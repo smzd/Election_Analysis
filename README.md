@@ -1,6 +1,7 @@
 #Election Analysis
 								
 #Project Overview:
+
 This is an elections audit analysis done on behalf of the Colorado Board of Elections. Following tasks needed to be completed to project the winner.
 •	Total number of votes 
 •	A total list of county votes
